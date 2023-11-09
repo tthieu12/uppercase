@@ -1,3 +1,0 @@
-([('main',
-   '/Users/tthieu2302/Python Tkinter/02-uppercase/dist/main',
-   'EXECUTABLE')],)
