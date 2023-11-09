@@ -1,5 +1,5 @@
 from tkinter import *
-from tkmacosx import Button
+#from tkmacosx import Button
 import os
 
 from define import *
